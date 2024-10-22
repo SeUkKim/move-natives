@@ -229,3 +229,4 @@ module std::capability {
         global<CapState<Feature>>(addr).delegates
     }
 }
+
