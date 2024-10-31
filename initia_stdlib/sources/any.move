@@ -61,4 +61,3 @@ module initia_std::any {
         );
     }
 }
-
