@@ -151,4 +151,3 @@ module std::ascii {
         byte <= 0x7E // Don't allow DEL metacharacter
     }
 }
-
