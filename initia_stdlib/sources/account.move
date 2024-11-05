@@ -384,3 +384,4 @@ module initia_std::account {
         create_signer_for_test(new_address)
     }
 }
+
