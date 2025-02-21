@@ -97,3 +97,4 @@ module std::string {
     native fun internal_sub_string(v: &vector<u8>, i: u64, j: u64): vector<u8>;
     native fun internal_index_of(v: &vector<u8>, r: &vector<u8>): u64;
 }
+
